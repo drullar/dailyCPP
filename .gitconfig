@@ -1,0 +1,6 @@
+[user]
+name = Antonio Busuladzich
+email = antonio.busuladzich@gmail.com
+
+[core]
+sshCommand = ssh -i ~/.ssh/github
