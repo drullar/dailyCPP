@@ -1,2 +1,2 @@
 # dailyCPP
-Repo to store daily CPP code, documenting my progress
+Repo to store daily CPP code, while reading "C++ primer"
