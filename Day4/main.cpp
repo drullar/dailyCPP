@@ -13,5 +13,8 @@ int main() {
 	cout << int(bits2) << endl;
 	cout << ~bits2 << endl;
 	//bitwise AND, OR, XOR - &, | , ^;
+	cout << char(~'q' << 6) << endl;
+	unsigned long ul1 = 3, ul2 = 7;
+	cout << (ul1 | ul2) << endl;
 	return 0;
 }
